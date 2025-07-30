@@ -35,7 +35,7 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 
 | Beginner Level UI | Inventory Manager (Intermediate) | Chat App (Advanced) |
 |-------------------|------------------------------|---------------------|
-| ![Beginner](https://user-images.githubusercontent.com/placeholder-beginner) | ![Intermediate](https://user-images.githubusercontent.com/placeholder-intermediate) | ![Advanced](https://user-images.githubusercontent.com/placeholder-advanced) |
+| ![Beginner]([https://user-images.githubusercontent.com/placeholder-beginner](https://i.postimg.cc/65xM97G9/beginner.png)) | ![Intermediate](https://user-images.githubusercontent.com/placeholder-intermediate) | ![Advanced](https://user-images.githubusercontent.com/placeholder-advanced) |
 
 *(Replace above placeholders with your screenshots later)*
 
@@ -55,12 +55,12 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 
 ### 🔗 Let's Connect
 
-- 👨‍💼 **LinkedIn**: [Krushikesh Patil](https://www.linkedin.com/in/krushikesh23cs)
-- 📧 **Email**: krushikesh23cs@gmail.com
+- 👨‍💼 **LinkedIn**: [Rushikesh Karad]((https://www.linkedin.com/in/rushikeshkarad2/))
+- 📧 **Email**: rushikarad1443@gmail.com
 - 💻 **GitHub**: [@krushikesh23cs](https://github.com/krushikesh23cs)
 
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Krushikesh Patil</strong> • Java Developer Intern @ ShadowFox
+  Built with ❤️ by <strong>rRushikesh Karad</strong> • Java Developer Intern @ ShadowFox
 </p>
