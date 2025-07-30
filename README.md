@@ -33,7 +33,7 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 
 ### 📸 Screenshots
 
-| Beginner Level UI | Inventory Manager (Intermediate) | Chat App (Advanced) |
+| Beginner Level UI | Inventory Manager (Intermediate) |
 |-------------------|------------------------------|---------------------|
 | ![Beginner](https://i.postimg.cc/65xM97G9/beginner.png) | ![Intermediate](https://i.postimg.cc/j5V7zfT2/intermiditer.png) |
 
