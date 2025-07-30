@@ -35,15 +35,7 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 
 | Beginner Level UI | Inventory Manager (Intermediate) | Chat App (Advanced) |
 |-------------------|------------------------------|---------------------|
-| ![Beginner](https://i.postimg.cc/65xM97G9/beginner.png) | ![Intermediate](https://user-images.githubusercontent.com/placeholder-intermediate) | ![Advanced](https://user-images.githubusercontent.com/placeholder-advanced) |
-
-*(Replace above placeholders with your screenshots later)*
-
----
-
-### 📽️ Proof of Work (Video)
-
-🔗 [Click here to watch the task explanation video](#) *(Upload on LinkedIn/YouTube and put link here)*
+| ![Beginner](https://i.postimg.cc/65xM97G9/beginner.png) | ![Intermediate](https://i.postimg.cc/j5V7zfT2/intermiditer.png) |
 
 ---
 
