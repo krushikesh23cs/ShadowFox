@@ -53,5 +53,5 @@ This repository contains all my completed tasks as a Java Developer Intern at **
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>rRushikesh Karad</strong> • Java Developer Intern @ ShadowFox
+  Built with ❤️ by <strong>Rushikesh Karad</strong> • Java Developer Intern @ ShadowFox
 </p>
